@@ -10,4 +10,8 @@ body {
     text-align: center;
     color:rgb(197, 60, 156);
 }
+.imagem{
+    margin: auto;
+    display: block;
+}
 
